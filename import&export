@@ -1,0 +1,8 @@
+http://localhost/#/home/workspace/nodejs/coding-practices/coding-practice-1h
+
+export:
+const newArray = ["countries", 190, "continents", 7, false, 6.2];
+export default newArray;
+
+import:
+import from "./exportArray.mjs";
